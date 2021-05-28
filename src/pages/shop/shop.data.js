@@ -154,8 +154,8 @@
       },
       {
         id: 4,
-        title: 'Womens',
-        routeName: 'womens',
+        title: 'Women',
+        routeName: 'women',
         items: [
           {
             id: 1,
@@ -203,8 +203,8 @@
       },
       {
         id: 5,
-        title: 'Mens',
-        routeName: 'mens',
+        title: 'Men',
+        routeName: 'men',
         items: [
           {
             id: 1,
